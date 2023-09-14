@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Seminar2\Zadanie_9\obj\Debug\net6.0\Zadanie_9.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Seminar2\Zadanie_9\obj\Debug\net6.0\Zadanie_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Seminar2\Zadanie_9\obj\Debug\net6.0\Zadanie_9.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Seminar2\Zadanie_9\obj\Debug\net6.0\Zadanie_9.AssemblyInfo.cs
+C:\Users\1\Desktop\Seminar2\Zadanie_9\obj\Debug\net6.0\Zadanie_9.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Seminar2\Zadanie_9\bin\Debug\net6.0\Zadanie_9.exe
+C:\Users\1\Desktop\Seminar2\Zadanie_9\bin\Debug\net6.0\Zadanie_9.deps.json
+C:\Users\1\Desktop\Seminar2\Zadanie_9\bin\Debug\net6.0\Zadanie_9.runtimeconfig.json
+C:\Users\1\Desktop\Seminar2\Zadanie_9\bin\Debug\net6.0\Zadanie_9.dll
+C:\Users\1\Desktop\Seminar2\Zadanie_9\bin\Debug\net6.0\Zadanie_9.pdb
+C:\Users\1\Desktop\Seminar2\Zadanie_9\obj\Debug\net6.0\Zadanie_9.dll
+C:\Users\1\Desktop\Seminar2\Zadanie_9\obj\Debug\net6.0\refint\Zadanie_9.dll
+C:\Users\1\Desktop\Seminar2\Zadanie_9\obj\Debug\net6.0\Zadanie_9.pdb
+C:\Users\1\Desktop\Seminar2\Zadanie_9\obj\Debug\net6.0\Zadanie_9.genruntimeconfig.cache
+C:\Users\1\Desktop\Seminar2\Zadanie_9\obj\Debug\net6.0\ref\Zadanie_9.dll
