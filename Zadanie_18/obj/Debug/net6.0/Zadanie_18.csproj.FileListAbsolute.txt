@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Seminar2\Zadanie_18\bin\Debug\net6.0\Zadanie_18.exe
+C:\Users\1\Desktop\Seminar2\Zadanie_18\bin\Debug\net6.0\Zadanie_18.deps.json
+C:\Users\1\Desktop\Seminar2\Zadanie_18\bin\Debug\net6.0\Zadanie_18.runtimeconfig.json
+C:\Users\1\Desktop\Seminar2\Zadanie_18\bin\Debug\net6.0\Zadanie_18.dll
+C:\Users\1\Desktop\Seminar2\Zadanie_18\bin\Debug\net6.0\Zadanie_18.pdb
+C:\Users\1\Desktop\Seminar2\Zadanie_18\obj\Debug\net6.0\Zadanie_18.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Seminar2\Zadanie_18\obj\Debug\net6.0\Zadanie_18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Seminar2\Zadanie_18\obj\Debug\net6.0\Zadanie_18.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Seminar2\Zadanie_18\obj\Debug\net6.0\Zadanie_18.AssemblyInfo.cs
+C:\Users\1\Desktop\Seminar2\Zadanie_18\obj\Debug\net6.0\Zadanie_18.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Seminar2\Zadanie_18\obj\Debug\net6.0\Zadanie_18.dll
+C:\Users\1\Desktop\Seminar2\Zadanie_18\obj\Debug\net6.0\refint\Zadanie_18.dll
+C:\Users\1\Desktop\Seminar2\Zadanie_18\obj\Debug\net6.0\Zadanie_18.pdb
+C:\Users\1\Desktop\Seminar2\Zadanie_18\obj\Debug\net6.0\Zadanie_18.genruntimeconfig.cache
+C:\Users\1\Desktop\Seminar2\Zadanie_18\obj\Debug\net6.0\ref\Zadanie_18.dll
