@@ -35,7 +35,8 @@ int GetIndexSeach(int[]array, int number)
 {
     for (int index = 0; index < array.Length; index++)
     {
-        if(array[index] == number)
+        if(array[index] == number) 
+        //Если нужно проверять только модуль числа, то условие: if(array[index] == number || array[index] == -number)
         {
             return index;
         }
