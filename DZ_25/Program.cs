@@ -9,8 +9,8 @@ int GetNumber(string message)
     return num;
 }
 
-int numA = GetNumber("A = ");
-int numB = GetNumber("B = "); 
+int numA = GetNumber("A ");
+int numB = GetNumber("B "); 
 
 double sqr = Math.Pow(numA, numB); //Возведение в степень 
 
