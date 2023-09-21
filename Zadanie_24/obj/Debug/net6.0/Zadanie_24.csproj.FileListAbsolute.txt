@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Seminar2\Zadanie_24\bin\Debug\net6.0\Zadanie_24.exe
+C:\Users\1\Desktop\Seminar2\Zadanie_24\bin\Debug\net6.0\Zadanie_24.deps.json
+C:\Users\1\Desktop\Seminar2\Zadanie_24\bin\Debug\net6.0\Zadanie_24.runtimeconfig.json
+C:\Users\1\Desktop\Seminar2\Zadanie_24\bin\Debug\net6.0\Zadanie_24.dll
+C:\Users\1\Desktop\Seminar2\Zadanie_24\bin\Debug\net6.0\Zadanie_24.pdb
+C:\Users\1\Desktop\Seminar2\Zadanie_24\obj\Debug\net6.0\Zadanie_24.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Seminar2\Zadanie_24\obj\Debug\net6.0\Zadanie_24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Seminar2\Zadanie_24\obj\Debug\net6.0\Zadanie_24.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Seminar2\Zadanie_24\obj\Debug\net6.0\Zadanie_24.AssemblyInfo.cs
+C:\Users\1\Desktop\Seminar2\Zadanie_24\obj\Debug\net6.0\Zadanie_24.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Seminar2\Zadanie_24\obj\Debug\net6.0\Zadanie_24.dll
+C:\Users\1\Desktop\Seminar2\Zadanie_24\obj\Debug\net6.0\refint\Zadanie_24.dll
+C:\Users\1\Desktop\Seminar2\Zadanie_24\obj\Debug\net6.0\Zadanie_24.pdb
+C:\Users\1\Desktop\Seminar2\Zadanie_24\obj\Debug\net6.0\Zadanie_24.genruntimeconfig.cache
+C:\Users\1\Desktop\Seminar2\Zadanie_24\obj\Debug\net6.0\ref\Zadanie_24.dll
