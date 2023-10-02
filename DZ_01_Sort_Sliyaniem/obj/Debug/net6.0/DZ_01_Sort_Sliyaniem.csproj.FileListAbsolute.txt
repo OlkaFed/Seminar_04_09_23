@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Seminar2\DZ_01_Sort_Sliyaniem\bin\Debug\net6.0\DZ_01_Sort_Sliyaniem.exe
+C:\Users\1\Desktop\Seminar2\DZ_01_Sort_Sliyaniem\bin\Debug\net6.0\DZ_01_Sort_Sliyaniem.deps.json
+C:\Users\1\Desktop\Seminar2\DZ_01_Sort_Sliyaniem\bin\Debug\net6.0\DZ_01_Sort_Sliyaniem.runtimeconfig.json
+C:\Users\1\Desktop\Seminar2\DZ_01_Sort_Sliyaniem\bin\Debug\net6.0\DZ_01_Sort_Sliyaniem.dll
+C:\Users\1\Desktop\Seminar2\DZ_01_Sort_Sliyaniem\bin\Debug\net6.0\DZ_01_Sort_Sliyaniem.pdb
+C:\Users\1\Desktop\Seminar2\DZ_01_Sort_Sliyaniem\obj\Debug\net6.0\DZ_01_Sort_Sliyaniem.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Seminar2\DZ_01_Sort_Sliyaniem\obj\Debug\net6.0\DZ_01_Sort_Sliyaniem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Seminar2\DZ_01_Sort_Sliyaniem\obj\Debug\net6.0\DZ_01_Sort_Sliyaniem.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Seminar2\DZ_01_Sort_Sliyaniem\obj\Debug\net6.0\DZ_01_Sort_Sliyaniem.AssemblyInfo.cs
+C:\Users\1\Desktop\Seminar2\DZ_01_Sort_Sliyaniem\obj\Debug\net6.0\DZ_01_Sort_Sliyaniem.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Seminar2\DZ_01_Sort_Sliyaniem\obj\Debug\net6.0\DZ_01_Sort_Sliyaniem.dll
+C:\Users\1\Desktop\Seminar2\DZ_01_Sort_Sliyaniem\obj\Debug\net6.0\refint\DZ_01_Sort_Sliyaniem.dll
+C:\Users\1\Desktop\Seminar2\DZ_01_Sort_Sliyaniem\obj\Debug\net6.0\DZ_01_Sort_Sliyaniem.pdb
+C:\Users\1\Desktop\Seminar2\DZ_01_Sort_Sliyaniem\obj\Debug\net6.0\DZ_01_Sort_Sliyaniem.genruntimeconfig.cache
+C:\Users\1\Desktop\Seminar2\DZ_01_Sort_Sliyaniem\obj\Debug\net6.0\ref\DZ_01_Sort_Sliyaniem.dll
