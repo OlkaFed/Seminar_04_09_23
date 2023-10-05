@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Seminar2\Sortirovka_viborom\bin\Debug\net6.0\Sortirovka_viborom.exe
+C:\Users\1\Desktop\Seminar2\Sortirovka_viborom\bin\Debug\net6.0\Sortirovka_viborom.deps.json
+C:\Users\1\Desktop\Seminar2\Sortirovka_viborom\bin\Debug\net6.0\Sortirovka_viborom.runtimeconfig.json
+C:\Users\1\Desktop\Seminar2\Sortirovka_viborom\bin\Debug\net6.0\Sortirovka_viborom.dll
+C:\Users\1\Desktop\Seminar2\Sortirovka_viborom\bin\Debug\net6.0\Sortirovka_viborom.pdb
+C:\Users\1\Desktop\Seminar2\Sortirovka_viborom\obj\Debug\net6.0\Sortirovka_viborom.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Seminar2\Sortirovka_viborom\obj\Debug\net6.0\Sortirovka_viborom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Seminar2\Sortirovka_viborom\obj\Debug\net6.0\Sortirovka_viborom.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Seminar2\Sortirovka_viborom\obj\Debug\net6.0\Sortirovka_viborom.AssemblyInfo.cs
+C:\Users\1\Desktop\Seminar2\Sortirovka_viborom\obj\Debug\net6.0\Sortirovka_viborom.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Seminar2\Sortirovka_viborom\obj\Debug\net6.0\Sortirovka_viborom.dll
+C:\Users\1\Desktop\Seminar2\Sortirovka_viborom\obj\Debug\net6.0\refint\Sortirovka_viborom.dll
+C:\Users\1\Desktop\Seminar2\Sortirovka_viborom\obj\Debug\net6.0\Sortirovka_viborom.pdb
+C:\Users\1\Desktop\Seminar2\Sortirovka_viborom\obj\Debug\net6.0\Sortirovka_viborom.genruntimeconfig.cache
+C:\Users\1\Desktop\Seminar2\Sortirovka_viborom\obj\Debug\net6.0\ref\Sortirovka_viborom.dll
