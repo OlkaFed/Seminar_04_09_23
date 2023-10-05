@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Seminar2\Sortirovka_puzirkom\bin\Debug\net6.0\Sortirovka_puzirkom.exe
+C:\Users\1\Desktop\Seminar2\Sortirovka_puzirkom\bin\Debug\net6.0\Sortirovka_puzirkom.deps.json
+C:\Users\1\Desktop\Seminar2\Sortirovka_puzirkom\bin\Debug\net6.0\Sortirovka_puzirkom.runtimeconfig.json
+C:\Users\1\Desktop\Seminar2\Sortirovka_puzirkom\bin\Debug\net6.0\Sortirovka_puzirkom.dll
+C:\Users\1\Desktop\Seminar2\Sortirovka_puzirkom\bin\Debug\net6.0\Sortirovka_puzirkom.pdb
+C:\Users\1\Desktop\Seminar2\Sortirovka_puzirkom\obj\Debug\net6.0\Sortirovka_puzirkom.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Seminar2\Sortirovka_puzirkom\obj\Debug\net6.0\Sortirovka_puzirkom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Seminar2\Sortirovka_puzirkom\obj\Debug\net6.0\Sortirovka_puzirkom.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Seminar2\Sortirovka_puzirkom\obj\Debug\net6.0\Sortirovka_puzirkom.AssemblyInfo.cs
+C:\Users\1\Desktop\Seminar2\Sortirovka_puzirkom\obj\Debug\net6.0\Sortirovka_puzirkom.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Seminar2\Sortirovka_puzirkom\obj\Debug\net6.0\Sortirovka_puzirkom.dll
+C:\Users\1\Desktop\Seminar2\Sortirovka_puzirkom\obj\Debug\net6.0\refint\Sortirovka_puzirkom.dll
+C:\Users\1\Desktop\Seminar2\Sortirovka_puzirkom\obj\Debug\net6.0\Sortirovka_puzirkom.pdb
+C:\Users\1\Desktop\Seminar2\Sortirovka_puzirkom\obj\Debug\net6.0\Sortirovka_puzirkom.genruntimeconfig.cache
+C:\Users\1\Desktop\Seminar2\Sortirovka_puzirkom\obj\Debug\net6.0\ref\Sortirovka_puzirkom.dll
