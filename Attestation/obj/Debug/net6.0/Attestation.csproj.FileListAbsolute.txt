@@ -1,0 +1,5 @@
+C:\Users\1\Desktop\Seminar2\Attestation\obj\Debug\net6.0\Attestation.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Seminar2\Attestation\obj\Debug\net6.0\Attestation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Seminar2\Attestation\obj\Debug\net6.0\Attestation.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Seminar2\Attestation\obj\Debug\net6.0\Attestation.AssemblyInfo.cs
+C:\Users\1\Desktop\Seminar2\Attestation\obj\Debug\net6.0\Attestation.csproj.CoreCompileInputs.cache
