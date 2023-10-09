@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Seminar2\Sortirovka_podschetom_parallel\bin\Debug\net6.0\Sortirovka_podschetom_parallel.exe
+C:\Users\1\Desktop\Seminar2\Sortirovka_podschetom_parallel\bin\Debug\net6.0\Sortirovka_podschetom_parallel.deps.json
+C:\Users\1\Desktop\Seminar2\Sortirovka_podschetom_parallel\bin\Debug\net6.0\Sortirovka_podschetom_parallel.runtimeconfig.json
+C:\Users\1\Desktop\Seminar2\Sortirovka_podschetom_parallel\bin\Debug\net6.0\Sortirovka_podschetom_parallel.dll
+C:\Users\1\Desktop\Seminar2\Sortirovka_podschetom_parallel\bin\Debug\net6.0\Sortirovka_podschetom_parallel.pdb
+C:\Users\1\Desktop\Seminar2\Sortirovka_podschetom_parallel\obj\Debug\net6.0\Sortirovka_podschetom_parallel.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Seminar2\Sortirovka_podschetom_parallel\obj\Debug\net6.0\Sortirovka_podschetom_parallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Seminar2\Sortirovka_podschetom_parallel\obj\Debug\net6.0\Sortirovka_podschetom_parallel.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Seminar2\Sortirovka_podschetom_parallel\obj\Debug\net6.0\Sortirovka_podschetom_parallel.AssemblyInfo.cs
+C:\Users\1\Desktop\Seminar2\Sortirovka_podschetom_parallel\obj\Debug\net6.0\Sortirovka_podschetom_parallel.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Seminar2\Sortirovka_podschetom_parallel\obj\Debug\net6.0\Sortirovka_podschetom_parallel.dll
+C:\Users\1\Desktop\Seminar2\Sortirovka_podschetom_parallel\obj\Debug\net6.0\refint\Sortirovka_podschetom_parallel.dll
+C:\Users\1\Desktop\Seminar2\Sortirovka_podschetom_parallel\obj\Debug\net6.0\Sortirovka_podschetom_parallel.pdb
+C:\Users\1\Desktop\Seminar2\Sortirovka_podschetom_parallel\obj\Debug\net6.0\Sortirovka_podschetom_parallel.genruntimeconfig.cache
+C:\Users\1\Desktop\Seminar2\Sortirovka_podschetom_parallel\obj\Debug\net6.0\ref\Sortirovka_podschetom_parallel.dll
