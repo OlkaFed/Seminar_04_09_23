@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Seminar2\Test_Zad_BusinesTechnologii\bin\Debug\net6.0\Test_Zad_BusinesTechnologii.exe
+C:\Users\1\Desktop\Seminar2\Test_Zad_BusinesTechnologii\bin\Debug\net6.0\Test_Zad_BusinesTechnologii.deps.json
+C:\Users\1\Desktop\Seminar2\Test_Zad_BusinesTechnologii\bin\Debug\net6.0\Test_Zad_BusinesTechnologii.runtimeconfig.json
+C:\Users\1\Desktop\Seminar2\Test_Zad_BusinesTechnologii\bin\Debug\net6.0\Test_Zad_BusinesTechnologii.dll
+C:\Users\1\Desktop\Seminar2\Test_Zad_BusinesTechnologii\bin\Debug\net6.0\Test_Zad_BusinesTechnologii.pdb
+C:\Users\1\Desktop\Seminar2\Test_Zad_BusinesTechnologii\obj\Debug\net6.0\Test_Zad_BusinesTechnologii.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Seminar2\Test_Zad_BusinesTechnologii\obj\Debug\net6.0\Test_Zad_BusinesTechnologii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Seminar2\Test_Zad_BusinesTechnologii\obj\Debug\net6.0\Test_Zad_BusinesTechnologii.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Seminar2\Test_Zad_BusinesTechnologii\obj\Debug\net6.0\Test_Zad_BusinesTechnologii.AssemblyInfo.cs
+C:\Users\1\Desktop\Seminar2\Test_Zad_BusinesTechnologii\obj\Debug\net6.0\Test_Zad_BusinesTechnologii.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Seminar2\Test_Zad_BusinesTechnologii\obj\Debug\net6.0\Test_Zad_BusinesTechnologii.dll
+C:\Users\1\Desktop\Seminar2\Test_Zad_BusinesTechnologii\obj\Debug\net6.0\refint\Test_Zad_BusinesTechnologii.dll
+C:\Users\1\Desktop\Seminar2\Test_Zad_BusinesTechnologii\obj\Debug\net6.0\Test_Zad_BusinesTechnologii.pdb
+C:\Users\1\Desktop\Seminar2\Test_Zad_BusinesTechnologii\obj\Debug\net6.0\Test_Zad_BusinesTechnologii.genruntimeconfig.cache
+C:\Users\1\Desktop\Seminar2\Test_Zad_BusinesTechnologii\obj\Debug\net6.0\ref\Test_Zad_BusinesTechnologii.dll
